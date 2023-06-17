@@ -1,3 +1,4 @@
+/*
 package starter.duckduckgo;
 
 import net.serenitybdd.core.Serenity;
@@ -28,3 +29,4 @@ class WhenSearchingByKeyword {
         );
     }
 }
+*/

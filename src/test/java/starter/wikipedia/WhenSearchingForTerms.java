@@ -1,3 +1,4 @@
+/*
 package starter.wikipedia;
 
 import net.serenitybdd.junit5.SerenityJUnit5Extension;
@@ -13,7 +14,7 @@ class WhenSearchingForTerms {
     @CastMember(name = "Wendy")
     Actor wendy;
 
-    @Test
+    //@Test
     void searchBySingleKeyword() {
         wendy.attemptsTo(
                 Navigate.toTheHomePage(),
@@ -22,3 +23,4 @@ class WhenSearchingForTerms {
         );
     }
 }
+*/
